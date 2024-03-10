@@ -75,7 +75,7 @@ function Homepage() {
             </div>
 
             <div className="Contact">
-            <button onClick={() => window.open('tel:+1234567890')}><FaPhone />Contact Us</button>
+            <button onClick={() => window.open('tel:+2347064901413')}><FaPhone />Contact Us</button>
             <button onClick={() => window.open('https://wa.me/message/RI3D3CKA2EO3O1')}><FontAwesomeIcon icon={faWhatsapp} />WhatsApp</button>
             </div>
 
@@ -87,37 +87,37 @@ function Homepage() {
             <div className="imagescontainer">
                 <div>
                 <img src={require("../Images.png/car2.jpeg")}alt=""/>
-                <p>jhfjhf</p>
+                <p>Price:</p>
                 </div>
 
                 <div className="">
                 <img src={require("../Images.png/car6.jpeg")}alt=""/>
-                <p>jhfjhf</p>
+                <p>Price:</p>
                 </div>
 
                 <div className="">
                 <img src={require("../Images.png/car8.jpeg")}alt=""/>
-                <p>jhfjhf</p>
+                <p>Price:</p>
                 </div>
 
                 <div className="">
                 <img src={require("../Images.png/car2.jpeg")}alt=""/>
-                <p>jhfjhf</p>
+                <p>Price:</p>
                 </div>
 
                 <div className="">
                 <img src={require("../Images.png/car6.jpeg")}alt=""/>
-                <p>jhfjhf</p>
+                <p>Price:</p>
                 </div>
 
                 <div className="">
                 <img src={require("../Images.png/car6.jpeg")} alt=""/>
-                <p>jhfjhf</p>
+                <p>Price:</p>
                 </div>
             </div>
 
             <div className="Contact">
-                <button onClick={() => window.open('tel:+1234567890')}><FaPhone />Contact Us</button>
+                <button onClick={() => window.open('tel:+2347064901413')}><FaPhone />Contact Us</button>
                 <button onClick={() => window.open('https://wa.me/message/RI3D3CKA2EO3O1')}><FontAwesomeIcon icon={faWhatsapp} />WhatsApp</button>
             </div>
             <br></br>
@@ -127,10 +127,13 @@ function Homepage() {
             </div>
             <br></br>
             <div className="Welcome">
-                <h3>Import And Export</h3>
+                <h3>Export</h3>
                 {Details.ImportAndExport}
             </div>
-            <br></br>
+            <div className="Contact">
+                <button onClick={() => window.open('tel:+2347064901413')}><FaPhone />Contact Us</button>
+                <button onClick={() => window.open('https://wa.me/message/RI3D3CKA2EO3O1')}><FontAwesomeIcon icon={faWhatsapp} />WhatsApp</button>
+            </div>
             <div className="Welcome">
                 <h3>Logistics Consultation</h3>
                 {Details.LogisticsConsultation}
@@ -142,7 +145,7 @@ function Homepage() {
             </div>
             <br></br>
             <div className="Contact">
-                <button onClick={() => window.open('tel:+1234567890')}><FaPhone />Contact Us</button>
+                <button onClick={() => window.open('tel:+2347064901413')}><FaPhone />Contact Us</button>
                 <button onClick={() => window.open('https://wa.me/message/RI3D3CKA2EO3O1')}><FontAwesomeIcon icon={faWhatsapp} />WhatsApp</button>
             </div>
 
