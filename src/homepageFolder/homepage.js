@@ -76,7 +76,7 @@ function Homepage() {
 
             <div className="Contact">
             <button onClick={() => window.open('tel:+2347064901413')}><FaPhone />Contact Us</button>
-            <button onClick={() => window.open('https://wa.me/message/RI3D3CKA2EO3O1')}><FontAwesomeIcon icon={faWhatsapp} />WhatsApp</button>
+            <button onClick={() => window.open('https://wa.me/message/CH3M3TCBQSTNJ1')}><FontAwesomeIcon icon={faWhatsapp} />WhatsApp</button>
             </div>
 
             <div className="Welcome">
@@ -118,7 +118,7 @@ function Homepage() {
 
             <div className="Contact">
                 <button onClick={() => window.open('tel:+2347064901413')}><FaPhone />Contact Us</button>
-                <button onClick={() => window.open('https://wa.me/message/RI3D3CKA2EO3O1')}><FontAwesomeIcon icon={faWhatsapp} />WhatsApp</button>
+                <button onClick={() => window.open('https://wa.me/message/CH3M3TCBQSTNJ1')}><FontAwesomeIcon icon={faWhatsapp} />WhatsApp</button>
             </div>
             <br></br>
             <div className="Welcome">
@@ -132,7 +132,7 @@ function Homepage() {
             </div>
             <div className="Contact">
                 <button onClick={() => window.open('tel:+2347064901413')}><FaPhone />Contact Us</button>
-                <button onClick={() => window.open('https://wa.me/message/RI3D3CKA2EO3O1')}><FontAwesomeIcon icon={faWhatsapp} />WhatsApp</button>
+                <button onClick={() => window.open('https://wa.me/message/CH3M3TCBQSTNJ1')}><FontAwesomeIcon icon={faWhatsapp} />WhatsApp</button>
             </div>
             <div className="Welcome">
                 <h3>Logistics Consultation</h3>
@@ -146,7 +146,7 @@ function Homepage() {
             <br></br>
             <div className="Contact">
                 <button onClick={() => window.open('tel:+2347064901413')}><FaPhone />Contact Us</button>
-                <button onClick={() => window.open('https://wa.me/message/RI3D3CKA2EO3O1')}><FontAwesomeIcon icon={faWhatsapp} />WhatsApp</button>
+                <button onClick={() => window.open('https://wa.me/message/CH3M3TCBQSTNJ1')}><FontAwesomeIcon icon={faWhatsapp} />WhatsApp</button>
             </div>
 
  
