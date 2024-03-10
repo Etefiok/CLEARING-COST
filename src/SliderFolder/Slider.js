@@ -70,7 +70,7 @@ let intervalTime = 10000;
                                
 
                                 <div className="content">
-                                    <h4>{slide.heading}</h4>
+                                    <h2>{slide.heading}</h2>
                                     <p>{slide.desc}</p>
                                     <hr />
                                    

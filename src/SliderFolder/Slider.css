@@ -63,12 +63,19 @@
         top: 5rem;
     }
 
+    
+
     .content > *{
         color: #fff;
         margin-bottom: 1rem;
         padding-top: 0;
         line-height: 20px;
         
+    }
+
+    .content h2{
+        font-size: 17px;
+       
     }
 }
 
