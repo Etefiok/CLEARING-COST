@@ -47,14 +47,10 @@ let intervalTime = 10000;
 
 
     const handleButtonClickIndex0 = () => {
-        window.location.href = "Library";
+        window.location.href = "tel:+2347064901413";
     };
     
-    const handleButtonClickIndex1 = () => {
-        window.location.href = "";
-    };
-
-
+ 
     return (
         <div className="slider">
             <AiOutlineArrowLeft className='arrow prev' onClick={prevslide}/>

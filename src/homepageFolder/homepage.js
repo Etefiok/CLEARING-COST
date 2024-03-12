@@ -129,6 +129,10 @@ function Homepage() {
             <div className="Welcome">
                 <h3>Export</h3>
                 {Details.ImportAndExport}
+                <div className="exportimage">
+                <img src={require("../Images.png/export01.jpg")} alt=""/>
+                </div>
+
             </div>
             <div className="Contact">
                 <button onClick={() => window.open('tel:+2347064901413')}><FaPhone />Contact Us</button>
@@ -142,6 +146,10 @@ function Homepage() {
             <div className="Welcome">
                 <h3>Wharehousing</h3>
                 {Details.Wharehousing}
+                <br></br><br></br>
+                <video controls>
+                    <source src= {require("../videos.mp4/wharehouse.mp4")} type="video/mp4" />
+                </video>
             </div>
             <br></br>
             <div className="Contact">
