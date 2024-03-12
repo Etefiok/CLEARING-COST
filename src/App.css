@@ -132,13 +132,14 @@ video {
 
 @media screen and (max-width: 600px){
   video {
-    width:400px; 
+    width:320px; 
     height:200px; 
   }
 
   .exportimage img{
     margin-top: 20px;
     width: 320px;
+    height:200px;
     
   }
 }
